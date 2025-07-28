@@ -1,7 +1,0 @@
-{
-	"exec": "bun run",
-	"watch": ["src"],
-	"ext": "js",
-	"ignore": ["**/*.test.js", "**/*.spec.js"],
-	"delay": "3"
-}
